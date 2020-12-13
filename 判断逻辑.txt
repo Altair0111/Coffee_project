@@ -1,0 +1,4 @@
+expression = ItemExpression +/- ItemExpression
+ItemExpression = UnaryExpression */÷ UnaryExpression
+UnaryExpression = -/+ FacterExpression
+FacterExpression = 各种其他表达式
