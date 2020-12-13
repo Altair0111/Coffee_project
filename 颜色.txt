@@ -1,0 +1,27 @@
+橘色：
+最深：#df5747
+次深：#f9ae8f   我用的次深#e16d60    225,109,96
+最浅：#fbede4   251,237,228
+
+紫色：
+最深：#3c366b
+次深：
+最浅：#434190
+
+700：
+;background-color:rgba(76,81,191,var(--bg-opacity))
+800：
+;background-color:rgba(67,65,144,var(--bg-opacity))
+900：
+;background-color:rgba(60,54,107,var(--bg-opacity))
+
+active：
+我的：#EE3B25
+原来的：#a3bffa
+
+nav  sm:w-24 md:w-32 lg:w-56 xl:w-1/6
+section md:w-5/12 lg:w-2/6
+
+main w-full md:w-7/12 lg:w-4/6
+
+文件夹19号前给图
